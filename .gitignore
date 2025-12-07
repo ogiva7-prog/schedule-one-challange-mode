@@ -30,5 +30,8 @@ Thumbs.db
 # Cursor
 .cursor/
 
-# original game files
+# Decompiled files
 decompiled/
+
+# schedule one directory
+schedule-one-challange-mode/schedule-one-challange-mode.csproj
